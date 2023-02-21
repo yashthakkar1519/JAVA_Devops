@@ -17,6 +17,6 @@ public class JavaCode1 {
 //       System.out.println("Error: " + e.getMessage());
 //     }
     
-    System.out.println("Hi!");
+    System.out.println("Hello!");
   }
 }

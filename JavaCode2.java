@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculator {
+public class JavaCode2 {
 
    public static void main(String[] args) {
 
@@ -42,4 +42,3 @@ public class Calculator {
       System.out.println(num1 + " " + operator + " " + num2 + " = " + result);
    }
 }
-Module - 1
